@@ -1,2 +1,2 @@
 # Clone-Netflix
-css/javascript
+css/html
